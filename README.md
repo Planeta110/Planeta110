@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @Planeta110
-- 👀 I’m interested in HTML CSS JS MYSQL REACT PHP and more.
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+# Soy Planeta110
+Un apasionado en el desarrollo Web: `Frontend y Backend`
+
+
+* 👀 Estoy interesado en HTML CSS, JS, JSX, MYSQL, REACT, PHP y muchos **más**.
+* 📫 Estoy colaborando con Samycraft YT 
+
+## Portafolio
+
+Mi portafolio es [planeta110.github.io](https://planeta110.github.io/ "Portafiolio")
+que estoy actualizando constantemente con mis nuevas abilidades y proyectos.
+```javascript
+const informatica = document.getElementById("informatica");
+function informaticaa() {
+    informatica.innerHTML = 
+    "Me encanta la programación y conocer nuevos mundos"
+}
+```
+
 
 <!---
 Planeta110/Planeta110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
